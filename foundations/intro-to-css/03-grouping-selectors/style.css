@@ -1,0 +1,23 @@
+#first{
+    background-color:black;
+    color:white;
+}
+#second{
+    background-color:yellow;
+}
+.common{
+    font-size:28px;
+    font-family:Helvetica, "Times New Roman", sans-serif;
+}
+.uno{
+    background-color: red;
+    color:white;
+}
+.dos{
+    background-color: green;
+    color: white;
+}
+.mate{
+    font-size:28px;
+    font-family:Helvetica, "Times New Roman", sans-serif;
+}
